@@ -1,0 +1,8 @@
+1. Total sum: 987459712; Time taken to sum all the numbers are 0.176635
+2. Total sum: 987459712; Time taken to sum all the numbers are 0.107492
+
+3. The two run times differ in the time taken to sum all the numbers. I observed that despite the total sum for both programs being the same, one program runs faster than another. It seems that the multi-threaded program runs faster on average to sum all the numbers compared to the single-threaded program.
+
+4. With less elements inside the array used in the multi-threaded program is seems that the run time is faster. However, the run time is still faster than the single-threaded program if you decreased the amount of elements inside of the array in that program as well.
+
+  
